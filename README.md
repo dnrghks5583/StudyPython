@@ -12,10 +12,10 @@
   - type() 함수
   - int(), float()와 같은 형변환 함수
 
-  ### 2일차
-  - 변수 개념
-  - 자료구조(list, tuple, dictionary, set)
-  - 자료구조별 연산
+### 2일차
+- 변수 개념
+- 자료구조(list, tuple, dictionary, set)
+- 자료구조별 연산
 
-  ### 3일차
-  - 흐름제어(if, for, while)
+### 3일차
+- 흐름제어(if, for, while)
