@@ -31,3 +31,7 @@
 - 파일입출력(IO)
 - 예외처리
 - 디버깅
+
+### 5일차
+- cx_Oracle library 활용
+- Oracle CRUD programming
